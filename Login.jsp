@@ -31,7 +31,7 @@
                         <td><input type="password" name="f_clave" value="" /></td>
                     </tr>
                      <tr>
-                        <td colspan="2"><input type="submit" value="ingresar" name="" /></td>
+                        <td colspan="2"><input type="submit" value="ingresar" name="f_ingresar" /></td>
                     </tr>
                 </tbody>
             </table>
