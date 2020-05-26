@@ -12,6 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Menu Principal</h1>
+        1. Portal del alumno <br>
+        2.Aula virtual <br>
+        3.Correo electronico<br>
+        4.Biblioteca <br>
+        5.BU <br>
     </body>
 </html>
